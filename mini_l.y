@@ -1,8 +1,3 @@
-// CS152 Project Phase 3
-// Made by 
-// Luke McFadden
-// Evan Stewart
-
 // How to use:
 // 1) chmod +x mil_run
 // 2) make parser
